@@ -1020,7 +1020,7 @@
 		"enabled"		"1"
 		"bgcolor_override"	"Blank"
 
-		"pin_to_sibling"	"ahudLabel"
+		"pin_to_sibling"	"MenuTitle"
 		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
 
@@ -1346,12 +1346,12 @@
 		"fgcolor_override"	"242 242 242 10"
 	}
 
-	"ahudLabel"
+	"MenuTitle"
 	{
 		"ControlName"	"CExButton"
-		"fieldName"		"ahudLabel"
-		"font"			"aRegular48"
-		"labelText"		"ahud"
+		"fieldName"		"MenuTitle"
+		"font"			"aRegular30" 	//change num to desired font for text below
+		"labelText"		"¯\_(ツ)_/¯"		//hud label title //change it if you want
 		"textAlignment"	"center"
 		"xpos"			"0"
 		"ypos"			"-10"

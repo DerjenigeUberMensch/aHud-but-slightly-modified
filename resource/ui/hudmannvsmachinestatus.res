@@ -42,7 +42,8 @@
 		"pin_corner_to_sibling"        "4"
 		"pin_to_sibling_corner"        "6"
 	}
-
+	//doesnt work goto 'resource/UI/HudMannVsMachineStatus.res'
+	//only here just incase valve changes it back
 	"CurrencyStatusPanel"
 	{
 		"ControlName"		"CCurrencyStatusPanel"
