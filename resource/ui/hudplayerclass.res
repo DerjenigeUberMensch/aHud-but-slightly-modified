@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
-		"xpos"			"9999"
+		"xpos"			"c-180"
 		"ypos"			"r75"
 		"zpos"			"2"
 		"wide"			"75"
@@ -51,7 +51,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusClassImageBG"
-		"xpos"			"9999"
+		"xpos"			"9999" //IDK some random white box appears when you show it
 	}
 
 	"classmodelpanelBG"
