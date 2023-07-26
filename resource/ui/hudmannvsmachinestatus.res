@@ -42,13 +42,13 @@
 		"pin_corner_to_sibling"        "4"
 		"pin_to_sibling_corner"        "6"
 	}
-	//doesnt work goto 'resource/UI/HudMannVsMachineStatus.res'
+	//doesnt work goto 'Scripts/HudLayout.res'
 	//only here just incase valve changes it back
 	"CurrencyStatusPanel"
 	{
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"c-202"
+		"xpos"				"c+75"//"c-202"
 		"ypos"				"r56"
 		"wide"				"100"
 		"tall"				"16"
@@ -60,7 +60,7 @@
 	{
 		"ControlName"		"CInWorldCurrencyStatus"
 		"fieldName"			"InWorldCurrencyPanel"
-		"xpos"				"c-202"
+		"xpos"				"c+75"//"c-202"
 		"ypos"				"r42"
 		"wide"				"100"
 		"tall"				"16"
