@@ -2,4 +2,4 @@
 
 #MacOs:   Not Tested
 
-#Linux:   *Mostly (arch) >>some elements may be broken or not show but main functionality is kept<<
+#Linux:   Supported, However external fonts and packages may be needeed to maintain visual functionality
